@@ -1,2 +1,2 @@
 # Simple-test
-It's just a test for me!
+It's just a test!
