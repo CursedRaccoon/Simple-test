@@ -1,2 +1,2 @@
-# Simple-test
+# Password-generator-interactive 
 It's just a test!
